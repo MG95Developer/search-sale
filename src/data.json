@@ -1,0 +1,111 @@
+[
+    {
+        "client_id": 1,
+        "client_since": "01-14-2014",
+        "total_purchased_in_euros": "1.671",
+        "client_name": "Peter Chez",
+        "client_fiscal_number": "258965321",
+        "client_mobile_number": "555-857-258",
+        "client_email": "peter58@gmail.com",
+        "staff_client_notes": "this client is very sensitive to shipping delays.",
+        "client_billing_address": "High Road Street 432 C, California, USA",
+        "client_shipping_address": "3rd Avenue, Clinton's Road Apartment 37 B, Arizona, USA",
+        "online_order_id": "WEB-2541-2020",
+        "online_order_type": "E-Commerce",
+        "online_order_date": "01-05-2020",
+        "online_order_details": [
+            {
+                "item_type": "3D Printer",
+                "item_color": "",
+                "item_name": "AnkerMake M5 3D Printer",
+                "item_price": "799",
+                "item_quantity": "2",
+                "grand_total": 1598
+            },
+            {
+                "item_type": "Filament",
+                "item_color": "red",
+                "item_name": "AnkerMake PLA+ Filament (2-Pack)",
+                "item_price": "58",
+                "item_quantity": "1",
+                "grand_total": 58
+            },
+            {
+                "item_type": "Books",
+                "item_color": "",
+                "item_name": "How to build your 1st 3D Printer with ease",
+                "item_price": "15",
+                "item_quantity": "1",
+                "grand_total": 15
+            }
+        ],
+        "online_order_amount_euros": "1.671",
+        "online_order_notes": "Hi. Please do not delay my order shipping. I am working on a very important project and the deadline is close. Thanks.",
+        "online_order_payment_date": "05-05-2020",
+        "online_order_sent_to_production": "05-16-2020",
+        "online_order_shipping_date": "05-18-2020",
+        "online_order_invoice_number": "AZ-2021-000547"
+    },
+    {
+        "client_id": 2,
+        "client_since": "01-14-2018",
+        "total_purchased_in_euros": "799",
+        "client_name": "Carmen Diaz",
+        "client_fiscal_number": "111222857",
+        "client_mobile_number": "574-825-118",
+        "client_email": "carmenshop@gmail.com",
+        "staff_client_notes": "client wants to deal discounts with us.",
+        "client_billing_address": "El Dorado Calle 4C, Cancún, Mexico",
+        "client_shipping_address": "El Dorado Calle 4C, Cancún, Mexico",
+        "online_order_id": "WEB-2835-2020",
+        "online_order_type": "E-Commerce",
+        "online_order_date": "17-05-2020",
+        "online_order_details": [
+            {
+                "item_type": "3D Printer",
+                "item_color": "",
+                "item_name": "AnkerMake M5 3D Printer",
+                "item_price": "799",
+                "item_quantity": "1",
+                "grand_total": 799
+            }
+        ],
+        "online_order_amount_euros": "799",
+        "online_order_notes": "Please ask Client Support Department to contact me by phone. Thank you!",
+        "online_order_payment_date": "17-05-2020",
+        "online_order_sent_to_production": "18-05-2020",
+        "online_order_shipping_date": "19-05-2020",
+        "online_order_invoice_number": "AZ-2020-000631"
+    },
+    {
+        "client_id": 3,
+        "client_since": "09-14-2019",
+        "total_purchased_in_euros": "580",
+        "client_name": "Jessy James",
+        "client_fiscal_number": "207287857",
+        "client_mobile_number": "+351915210000",
+        "client_email": "jjames@gmail.com",
+        "staff_client_notes": "Double check the product type please",
+        "client_billing_address": "Av. da Liberdade, Edif. Atrium, 2E, Lisboa",
+        "client_shipping_address": "Av. da Liberdade, Edif. Atrium, 2E, Lisboa",
+        "online_order_id": "WEB-2911-2020",
+        "online_order_type": "E-Commerce",
+        "online_order_date": "19-05-2020",
+        "online_order_details": [
+            {
+                "item_type": "Filament",
+                "item_color": "deep purple",
+                "item_name": "AnkerMake PLA+ Filament (2-Pack)",
+                "item_price": "58",
+                "item_quantity": "10",
+                "grand_total": 580
+            }
+        ],
+        "online_order_amount_euros": "580",
+        "online_order_notes": "Make sure to send PLA and NOT PETG",
+        "online_order_payment_date": "17-05-2020",
+        "online_order_sent_to_production": "18-05-2020",
+        "online_order_shipping_date": "19-05-2020",
+        "online_order_invoice_number": "AZ-2020-001274"
+    }
+]
